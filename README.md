@@ -12,7 +12,7 @@ I am a passionate B.Tech CS student at Anurag University, driven by a curiosity 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,eclipse,git,github,linkedin,js,html,css,wasm)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
